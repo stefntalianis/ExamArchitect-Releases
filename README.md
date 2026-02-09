@@ -1,1 +1,2 @@
 # ExamArchitect-Releases
+ExamArchitect is a powerful, offline-first desktop application designed for educators and institutions to streamline the creation of secure, multi-version assessments. Built with Electron, React, and TypeScript, it allows users to manage extensive question banks and generate print-ready exams in seconds. The system supports full English & Greek localization, automatic shuffling (questions & answers), university branding, and export to both PDF and RTF formats.
